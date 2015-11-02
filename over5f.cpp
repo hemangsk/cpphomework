@@ -1,0 +1,1 @@
+/*It can be overloaded using friend function */
